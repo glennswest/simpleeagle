@@ -1,4 +1,4 @@
-* Simple Eagle Tile Burn
+# Simple Eagle Tile Burn
 
 Original Art from: http://www.clker.com/clipart-eagle-black-and-white-.html
 Youtube Tutorial: https://www.youtube.com/watch?v=vx8Q9YBzOaA
